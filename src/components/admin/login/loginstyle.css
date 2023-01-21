@@ -1,0 +1,21 @@
+.admin_login_div{
+    justify-content: center;
+    display: flex;
+    margin: 20vh 0vh;
+    text-align: center;
+}
+
+.admin_login_inner_div{
+    padding: 40px;
+}
+
+.admin_login_lineone{
+    color: #37424f;
+    font-size:18px;
+    font-family: 'Inter', sans-serif;
+}
+
+.admin_login_linetwo{
+    margin-top: 5px;
+    height:20px;
+}

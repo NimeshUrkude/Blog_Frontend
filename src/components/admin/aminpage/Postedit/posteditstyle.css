@@ -1,0 +1,16 @@
+.postedit_div{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:10px;
+}
+
+.postedit_txt{
+    margin: 10px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.postedit_btn{
+    margin: 10px;
+}

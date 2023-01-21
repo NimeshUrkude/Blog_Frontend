@@ -1,0 +1,43 @@
+.footer_div{
+    background-color:#37424f;
+    color: white;
+}
+
+.footer_left_tittle{
+    font-size: 32px;
+    font-family: 'Playfair Display', serif;
+}
+
+.fontosm{
+    font-size: 20px;
+    margin: 0.75%;
+}
+
+
+
+.footer_right{
+    text-align: end;
+}
+
+.footer_right_txt{
+    display: inline-block;
+    font-size: 15px;
+    margin-left:10px;
+    font-family: 'Inter', sans-serif;
+}
+
+.footer_a{
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.footer_right_txt_admin{
+    color: white;
+    text-decoration: none;
+}
+
+.footer_right_txt_admin:hover{
+    color: palegoldenrod;
+}

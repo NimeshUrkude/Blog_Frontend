@@ -1,0 +1,95 @@
+.other_div{
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+}
+
+.other_div_inner{
+    background-color: #96abbc58;
+    border-radius: 20px;
+    margin: 5%;
+    padding: 0px;
+}
+
+.other_img{
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 200px;
+}
+
+.other_data{
+    margin: 0px;
+    padding: 0px;
+}
+
+.other_data_inner{
+    padding: 2% 5%;
+}
+
+.other_subject{
+    display: block;
+    width: 100%;  
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    height: 20px;
+    overflow: hidden;
+}
+
+.other_date{
+    display: block;
+    width: 100%;
+    font-size: 13px;
+    font-weight: 300;
+    font-family: 'Inter', sans-serif;
+    height: 17px;
+    overflow: hidden;
+}
+
+.other_title{
+    font-family: 'Bitter', serif;
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;    
+    height: 60px;
+    overflow: hidden;
+}
+
+.other_details{
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    text-align: justify;
+    height: 190px;
+    overflow: hidden;
+}
+
+.other_profile{
+   height: 30px;
+   width: 30px; 
+   border-radius: 50px;
+   object-fit: cover;
+}
+
+.other_name{
+    display: block;
+    width: 100%;  
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    height: 20px;
+    overflow: hidden;
+}
+
+.other_link{
+    color: black;
+    text-decoration: none;
+}
+.other_link:hover{
+    color: black;
+    text-decoration: none;
+    opacity: 0.75;
+}

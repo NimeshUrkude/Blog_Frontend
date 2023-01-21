@@ -1,0 +1,22 @@
+.about_div{
+    font-family: 'Inter', sans-serif;
+}
+
+.about_heading{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Bitter', serif;
+}
+
+.about_lines{
+    align-items: center;
+}
+
+.about_line{
+    display: block;
+    font-size: 25px;
+    font-weight: 400;
+    word-spacing: 3px;
+}

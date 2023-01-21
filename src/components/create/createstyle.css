@@ -1,0 +1,100 @@
+.create_div{
+  background-color: white;
+}
+
+.create_btn_div{
+  text-align: center;
+}
+
+.create_btn{
+  background-color: white;
+  color: #6a7887;
+  font-size: 25px;
+  font-weight: 400;
+  padding: 1% 3%;
+  border-radius: 10px;
+  border: #6a7887 2px solid;
+}
+
+.create_btn:hover{
+  background-color: #6a7887;
+  color: white;
+}
+
+.create_heading{
+  display: block;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: 'Bitter', serif;
+}
+
+.floating-label { 
+    position:relative; 
+    margin-bottom:20px; 
+  }
+  
+  .floating-input{
+    font-size:20px;
+    padding:4px 4px;
+    display:block;
+    width:100%;
+    height:30px;
+    background-color: transparent;
+    border:none;
+    border-bottom:1px solid #757575;
+  }
+  
+  .floating-input:focus{
+       outline:none;
+       border-bottom:2px solid #37424f;
+  }
+  
+  label {
+    color:#999; 
+    font-size:17px;
+    font-weight:normal;
+    position:absolute;
+    pointer-events:none;
+    left:5px;
+    top:0px;
+    transition:0.2s ease all; 
+    -moz-transition:0.2s ease all; 
+    -webkit-transition:0.2s ease all;
+  }
+  
+  .floating-input:focus ~ label, .floating-input:not(:placeholder-shown) ~ label {
+    top:-18px;
+    font-size:14px;
+    color:#37424f;
+  }
+  
+  .floating-select:focus ~ label , .floating-select:not([value=""]):valid ~ label {
+    top:-18px;
+    font-size:14px;
+    color:#37424f;
+  }
+  
+  .floating-input:focus ~ .bar:before, .floating-input:focus ~ .bar:after, .floating-select:focus ~ .bar:before, .floating-select:focus ~ .bar:after {
+    width:50%;
+  }
+  
+  *, *:before, *:after {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+  }
+  
+  .txb{
+    min-height: 50px;
+  }
+
+  .create_alert{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    height: 30px;
+    color: darkblue;
+    font-size: 15px;
+  }
+  

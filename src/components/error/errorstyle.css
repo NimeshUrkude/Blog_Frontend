@@ -1,0 +1,58 @@
+.error_div{
+    width: 100%;
+}
+
+.error_inner_div{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.error_linezero{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.error_lineone{
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+}
+.error_linetwo{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.error_btn_div{
+    text-align: center;
+}
+
+.error_img{
+    width: 100%;
+}
+
+.error_row_parta{
+    margin-top: 10vh;
+}
+
+.error_backbtn{
+    color:black;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 400;
+    background-color: white;
+    border: 1px solid black;
+    padding: 8px 15px;
+    border-radius: 8px;
+}
+
+.error_backbtn:hover{
+    background-color: black;
+    color: white;
+}
+
+@media screen and (max-width:768px) {
+    .error_row_parta{
+        text-align: center;
+    }
+}

@@ -1,0 +1,15 @@
+.admin_div{
+    justify-content: center;
+    display: flex;
+    margin: 15vh 0vh;
+}
+
+.admin_inner_div{
+    padding: 40px;
+}
+
+
+
+.admin_input{
+    width: 100%;
+}

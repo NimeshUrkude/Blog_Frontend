@@ -1,0 +1,28 @@
+.header_div{
+    width: 100%;
+    background-color: #f5f7fa;
+}
+
+.header_brand{
+    color:#37424f;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Playfair Display', serif;
+}
+.header_brand:hover{
+    color: black;
+}
+
+.header_link{
+    color: #37424f;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none; 
+    padding: 8px;  
+
+}
+.header_link:hover{
+    color: black;
+
+}
