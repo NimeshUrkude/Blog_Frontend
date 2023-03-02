@@ -10,7 +10,7 @@ function Recent(props) {
       <span className="recent_lineone">Recent</span>
       <div style={{padding:"1%"}}/>
       <div className="recent_data">
-        <Link className="recent_link" to={`/Blog/page/${props.pos}`}>
+        <Link className="recent_link" to={`/Blog_Frontend/page/${props.pos}`}>
           <div className="row">
             <div className="col-md-4 col-sm-12 recent_alldatas_left">
               <img src={props.fullone.picture} alt="MainPicture" className="recent_img"/>

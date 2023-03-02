@@ -24,11 +24,11 @@ function Home() {
         })
       }
       fetchapi()
-    },[]);
+    },[dispatch]);
 
     if(data===null){
       return(
-        <div class="lds-dual-ring"></div>
+        <div className="lds-dual-ring"></div>
       )
     }
     else{
@@ -40,6 +40,7 @@ function Home() {
                 if(index!==(data.length-1)){
                   return <Other full={da} pos={index} key={index}/>
               }
+              return null;
            })}
         </div>
         <div style={{padding:"2%"}}/>

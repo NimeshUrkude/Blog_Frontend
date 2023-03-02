@@ -8,7 +8,7 @@ function Name(props) {
   
   return(
     <div className="other_div col-lg-3 col-md-4 col-sm-6 col-6">
-    <Link className="other_link" to={`/Blog/page/${props.pos}`}>
+    <Link className="other_link" to={`/Blog_Frontend/page/${props.pos}`}>
       <div className="other_div_inner">
         <img className="other_img" alt="MainPicture" src={props.full.picture}/>
         <div className="other_data">
