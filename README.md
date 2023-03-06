@@ -1,6 +1,6 @@
 # Blog Frontend
 
-This Repository is of Frontend for Blog Clone Website build on React.
+This repository on GitHub contains the code for the frontend of a blog clone website built on React. It contains all the essential components such as components, state, routes, redux and context. 
 
 Backend Link : https://blog-backend-wdev.onrender.com
 
