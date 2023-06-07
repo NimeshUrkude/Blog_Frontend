@@ -54,7 +54,7 @@ function Create() {
     <motion.div initial={{opacity:0 , scale:0.5}} animate={{opacity:1 , scale:1}} transition={{duration:1}} className="create_div">
       <div className="container">
       <div style={{padding:"1.5%"}}/>
-        <span className="create_heading">Create</span>
+      <span className="create_heading">Create</span>
         <div style={{padding:"1.5%"}}/>
         <div className="row">
           <div className="col-md-6 col-sm-12">     

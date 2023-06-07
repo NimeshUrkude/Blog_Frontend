@@ -4,6 +4,7 @@ import "./recentstyle.css"
 import {Link} from "react-router-dom";
 
 function Recent(props) {
+  console.log(props);
   return(
     <div className="recent_div">
       <div style={{padding:"1%"}}/>
